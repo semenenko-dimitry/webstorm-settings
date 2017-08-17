@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="cp" value="console.log($END$);process.exit(0);" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
