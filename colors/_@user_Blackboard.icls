@@ -3,7 +3,7 @@
     <property name="created">2017-09-04T08:21:23</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2017-09-27T16:17:12</property>
+    <property name="modified">2017-09-30T21:22:04</property>
     <property name="originalScheme">Blackboard</property>
   </metaInfo>
   <colors>
@@ -371,7 +371,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="aeaeae" />
+        <option name="FOREGROUND" value="8debb9" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -386,17 +386,22 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="aeaeae" />
+        <option name="FOREGROUND" value="8debb9" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="aeaeae" />
+        <option name="FOREGROUND" value="8debb9" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="5c8a2d" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="aeaeae" />
+        <option name="FOREGROUND" value="8debb9" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -447,7 +452,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="aeaeae" />
+        <option name="FOREGROUND" value="8debb9" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -849,13 +854,48 @@
     </option>
     <option name="JS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ee755d" />
+        <option name="FOREGROUND" value="f8311b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="61ce3c" />
+      </value>
+    </option>
+    <option name="JSON.COLON">
+      <value>
+        <option name="FOREGROUND" value="dedcf1" />
+      </value>
+    </option>
+    <option name="JSON.COMMA">
+      <value>
+        <option name="FOREGROUND" value="dedcf1" />
+      </value>
+    </option>
+    <option name="JSON.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="dedcf1" />
+      </value>
+    </option>
+    <option name="JSON.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="e6661c" />
+      </value>
+    </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="b380c3" />
+      </value>
+    </option>
+    <option name="JSON.STRING">
+      <value>
+        <option name="FOREGROUND" value="dedcf1" />
+      </value>
+    </option>
+    <option name="JSON.VALID_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="ff765d" />
       </value>
     </option>
     <option name="LABEL">
@@ -1176,7 +1216,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_COMMENT">
       <value>
-        <option name="FOREGROUND" value="aeaeae" />
+        <option name="FOREGROUND" value="8debb9" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2485,7 +2525,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="aeaeae" />
+        <option name="FOREGROUND" value="8debb9" />
         <option name="BACKGROUND" value="3300" />
       </value>
     </option>
@@ -3552,7 +3592,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="aeaeae" />
+        <option name="FOREGROUND" value="8debb9" />
         <option name="BACKGROUND" value="3333" />
       </value>
     </option>
@@ -4619,7 +4659,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="aeaeae" />
+        <option name="FOREGROUND" value="8debb9" />
         <option name="BACKGROUND" value="404000" />
       </value>
     </option>
@@ -5674,7 +5714,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="aeaeae" />
+        <option name="FOREGROUND" value="8debb9" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_EMOJI_ID">
@@ -6677,7 +6717,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="aeaeae" />
+        <option name="FOREGROUND" value="8debb9" />
         <option name="BACKGROUND" value="4500" />
       </value>
     </option>
@@ -7744,7 +7784,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="aeaeae" />
+        <option name="FOREGROUND" value="8debb9" />
         <option name="BACKGROUND" value="3838" />
       </value>
     </option>
@@ -8811,7 +8851,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="aeaeae" />
+        <option name="FOREGROUND" value="8debb9" />
         <option name="BACKGROUND" value="454500" />
       </value>
     </option>
@@ -9878,7 +9918,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_COMMENT">
       <value>
-        <option name="FOREGROUND" value="aeaeae" />
+        <option name="FOREGROUND" value="8debb9" />
         <option name="BACKGROUND" value="383838" />
       </value>
     </option>
