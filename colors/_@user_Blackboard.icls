@@ -3,7 +3,7 @@
     <property name="created">2017-09-04T08:21:23</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2017-10-03T09:59:53</property>
+    <property name="modified">2017-10-03T16:50:36</property>
     <property name="originalScheme">Blackboard</property>
   </metaInfo>
   <colors>
@@ -11306,7 +11306,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="655f19" />
+        <option name="BACKGROUND" value="376548" />
         <option name="ERROR_STRIPE_COLOR" value="ff00" />
       </value>
     </option>
