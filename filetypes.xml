@@ -5,8 +5,6 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="a3c5ea87ad12b28f16fb31e3c7ac3a8a" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
-      <mapping ext="yml" type="XML" />
-      <removed_mapping ext="yml" type="YAML" />
     </extensionMap>
   </component>
 </application>
