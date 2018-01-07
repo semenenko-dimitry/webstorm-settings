@@ -1,4 +1,5 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
   <inspection_tool class="HtmlUnknownTarget" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="NpmUsedModulesInstalled" enabled="true" level="ERROR" enabled_by_default="true" />
 </profile>
