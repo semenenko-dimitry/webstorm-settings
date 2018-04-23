@@ -12,6 +12,7 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="sprint" type="PLAIN_TEXT" />
+      <mapping pattern="dsad" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern="46" type="PLAIN_TEXT" />
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
