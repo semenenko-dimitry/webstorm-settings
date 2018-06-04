@@ -4,6 +4,7 @@
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern="46" type="PLAIN_TEXT" />
+      <mapping pattern="sql-vita" type="PLAIN_TEXT" />
       <mapping ext="link" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
