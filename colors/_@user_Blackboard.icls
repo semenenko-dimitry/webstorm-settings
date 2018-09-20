@@ -3,7 +3,7 @@
     <property name="created">2017-09-04T08:21:23</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2018-03-29T17:51:07</property>
+    <property name="modified">2018-09-20T15:05:29</property>
     <property name="originalScheme">Blackboard</property>
   </metaInfo>
   <colors>
@@ -545,7 +545,7 @@
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="2f632f" />
+        <option name="BACKGROUND" value="234b23" />
         <option name="ERROR_STRIPE_COLOR" value="99ff99" />
       </value>
     </option>
