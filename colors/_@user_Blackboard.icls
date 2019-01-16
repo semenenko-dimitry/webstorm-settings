@@ -3,7 +3,7 @@
     <property name="created">2017-09-04T08:21:23</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2019-01-14T11:43:02</property>
+    <property name="modified">2019-01-16T15:47:18</property>
     <property name="originalScheme">Blackboard</property>
   </metaInfo>
   <colors>
@@ -11339,13 +11339,13 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="472c47" />
+        <option name="BACKGROUND" value="a85a39" />
         <option name="ERROR_STRIPE_COLOR" value="ffcdff" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="623062" />
+        <option name="BACKGROUND" value="964f97" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
