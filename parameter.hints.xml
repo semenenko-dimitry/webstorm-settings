@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="JavaScript">
+        <added pattern="QueryInterface.addColumn(table,key,attribute,options)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
