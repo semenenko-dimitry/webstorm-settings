@@ -11,7 +11,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>.mxml</mask>
     <mask>redis.js</mask>
@@ -19,5 +18,7 @@
     <mask>*.env</mask>
     <mask>!./compiled/*.js</mask>
     <mask>*.js</mask>
+    <mask>*.ts</mask>
+    <mask>*.css</mask>
   </component>
 </application>
