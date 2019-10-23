@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="mu" type="Native" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping ext="link" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
