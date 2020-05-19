@@ -22,5 +22,6 @@
     <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.css</mask>
+    <mask>*.gif</mask>
   </component>
 </application>
