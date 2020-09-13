@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="getAllInstrimentsRequest" type="JSON" />
+      <mapping pattern=".gitignore " type="GitIgnore file" />
       <mapping pattern="getAllInstrumentsRequest" type="JSON" />
+      <mapping pattern="getAllInstrimentsRequest" type="JSON" />
+      <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
