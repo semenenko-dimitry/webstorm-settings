@@ -6,6 +6,7 @@
       <mapping pattern="getAllInstrimentsRequest" type="JSON" />
       <mapping pattern=".helmignore " type="PLAIN_TEXT" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
+      <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="tpl " type="PLAIN_TEXT" />
       <mapping ext="license" type="PLAIN_TEXT" />
       <mapping ext="txt " type="PLAIN_TEXT" />
