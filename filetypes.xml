@@ -4,6 +4,7 @@
       <mapping pattern=".gitignore " type="GitIgnore file" />
       <mapping pattern="getAllInstrumentsRequest" type="JSON" />
       <mapping pattern="getAllInstrimentsRequest" type="JSON" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern=".helmignore " type="PLAIN_TEXT" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
